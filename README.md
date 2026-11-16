@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gist.github.com/michelcalisto/cbd2675a1f524b3ea1dd362b5b7c2fe9" alt="Monograma de Hopi" width="120">
+  <img src="https://gist.githubusercontent.com/michelcalisto/cbd2675a1f524b3ea1dd362b5b7c2fe9/raw/fe2f2219fe643befd590b097b0c25a82d6d81d93/hopi-banner.webp" alt="Monograma de Hopi" width="120">
 </p>
 
 <h1 align="center">Hopi</h1>
