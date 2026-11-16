@@ -9,7 +9,7 @@ para negocios y equipos.
 En nuestros repositorios públicos compartimos código y herramientas que
 puedes explorar, probar y adaptar según la licencia de cada proyecto.
 
-- [Ver los repositorios de Hopi](https://github.com/orgs/TU-ORG/repositories)
+- [Ver los repositorios de Hopi](https://github.com/orgs/hopi-software/repositories)
 - [Conocer Hopi](https://hopi.cl)
 
 ## Participa
