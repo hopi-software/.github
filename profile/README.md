@@ -1,4 +1,4 @@
-![Hopi](https://gist.githubusercontent.com/michelcalisto/cbd2675a1f524b3ea1dd362b5b7c2fe9/raw/fe2f2219fe643befd590b097b0c25a82d6d81d93/hopi-banner.webp)
+![Hopi](https://github.com/hopi-software/.github/blob/main/images/hopi-banner.webp) 
 
 Somos un estudio de desarrollo de software y diseño en Ancud, Chiloé.
 Creamos aplicaciones web, herramientas de gestión e identidades visuales
